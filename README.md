@@ -1,6 +1,4 @@
 
 # Dear DR MAGGIE OR DR ASHOUR
 # PLEASE OPEN Clustering Project-.ipynb 
-Clustering Project-.ipynb  is my final one
-Clustering Project 3.ipynb is not my final one I forgot to rename to Clustering Project 4.
-Thank you
+Clustering Project-.ipynb  is my final one not Clustering Project 3
